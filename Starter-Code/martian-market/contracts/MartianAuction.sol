@@ -3,7 +3,7 @@ pragma solidity ^0.6.0;
 // taken straight from the Solidity docs
 // https://solidity.readthedocs.io/en/v0.5.10/solidity-by-example.html?highlight=auction#id2
 // you must modify this to be compatible with the MartianMarket contract
-contract SimpleAuction {
+contract MartianAuction {
     // Parameters of the auction. Times are either
     // absolute unix timestamps (seconds since 1970-01-01)
     // or time periods in seconds.
